@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap');
+#numsenha {
+  border-color: #0a2240;
+  border-radius: 5px;
+}
+
+#numsenha:focus {
+  outline: none;
+}
+
+#GerarSenha {
+  border: none;
+  background-color: #0a2240;
+  color: #fff;
+  margin-top: 5px;
+  border-radius: 5px;
+  padding: 2px;
+}
+
+#senha {
+  color: #fff;
+  font-family: 'Poppins';
+  background-color: #0a2240;
+  padding: 5px;
+  border-radius: 5px;
+  text-align: center;
+}
