@@ -1,7 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap');
+
+body {
+  width: 300px;
+}
+
 #numsenha {
   border-color: #0a2240;
   border-radius: 5px;
+  width: 90%;
 }
 
 #numsenha:focus {
@@ -15,6 +21,9 @@
   margin-top: 5px;
   border-radius: 5px;
   padding: 2px;
+  align-items: center;
+  width: 150px;
+  padding: 5px;
 }
 
 #senha {
