@@ -2,12 +2,16 @@
 
 body {
   width: 300px;
+  background-color: #2e2e2e;
 }
 
 #numsenha {
-  border-color: #0a2240;
+  border-color: #fff;
   border-radius: 5px;
   width: 90%;
+  background-color: transparent;
+  color: #fff;
+  padding: 5px;
 }
 
 #numsenha:focus {
